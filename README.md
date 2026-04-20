@@ -5,6 +5,8 @@ Project Overview
 This repository contains a 10-page Power BI dashboard analyzing retail performance across a customer base of 2,021 individuals. The project evaluates $1.14M in revenue and 25.4K orders, focusing on the intersection of customer demographics and marketing campaign effectiveness.
 
 
+
+
 Data Observations
 ![Product Correlation](Product_Correlation_Analysis.png)
 ![Income Insights](Customer_Income_Insights.png)
@@ -14,6 +16,9 @@ Data Observations
 - Channel Distribution: 67% of purchases occur in-store, despite a significant volume of website traffic, highlighting an opportunity to improve online conversion paths.
 - Customer Value: High-income households and those without children represent the highest revenue-per-customer segments.
 -Marketing Efficacy: Historical campaign analysis shows a 28% overall conversion rate (CVR). Recent campaign performance tracked at 15.4%, with a significant segment (1,458 customers) identified as "Non-Responders."
+
+
+
 
 Report Structure
 The dashboard is divided into the following analytical views:
@@ -27,6 +32,8 @@ The dashboard is divided into the following analytical views:
 8. Product Correlation: Statistical heatmap of cross-category purchasing habits.
 9. Household Insights: Performance filtered by family size and children in the home.
 10. Income Analysis: Scatter plot distribution of income versus total expenditure.
+
+
 
 
 Technical Methodology
