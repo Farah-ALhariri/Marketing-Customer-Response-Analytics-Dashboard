@@ -1,11 +1,14 @@
 Retail Marketing Performance & Customer Analytics
-
+![Executive Summary](Executive_Summary.png)
 
 Project Overview
 This repository contains a 10-page Power BI dashboard analyzing retail performance across a customer base of 2,021 individuals. The project evaluates $1.14M in revenue and 25.4K orders, focusing on the intersection of customer demographics and marketing campaign effectiveness.
 
 
 Data Observations
+![Product Correlation](Product_Correlation_Analysis.png)
+![Income Insights](Customer_Income_Insights.png)
+![Conversion Analysis](Conversion_Rate_vs._Customer_Spend_by_Key_Segments.png)
 - Revenue Drivers: Product analysis shows Wine is the primary revenue source (54%), followed by Meat products (29%).
 - Purchasing Behavior: A correlation heatmap identifies strong cross-selling potential between Meat, Fish, and Fruits. Conversely, Wine purchases show lower correlation with other categories, suggesting it acts as a standalone driver.
 - Channel Distribution: 67% of purchases occur in-store, despite a significant volume of website traffic, highlighting an opportunity to improve online conversion paths.
